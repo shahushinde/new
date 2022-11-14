@@ -8,6 +8,7 @@ public class DsaBankApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DsaBankApplication.class, args);
+		System.out.println("Shahu Shinde");
 	}
 
 }
